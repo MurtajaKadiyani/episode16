@@ -59,7 +59,7 @@
                 "displayName": "[variables('storageAccountName')]"
             },
             "sku": {
-                "name": "Standard_LRS"
+                "name": "Standard_GRS"
             },
             "kind": "Storage"
         },
